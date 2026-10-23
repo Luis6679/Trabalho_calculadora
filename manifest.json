@@ -1,0 +1,9 @@
+{
+  "name": "Calculadora Científica",
+  "short_name": "Calculadora",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#101014",
+  "theme_color": "#101014",
+  "description": "Calculadora científica desenvolvida em Flutter."
+}
